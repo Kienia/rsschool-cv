@@ -16,3 +16,10 @@ My main qualities: honesty, sociability, benevolence. I appreciate openness and 
 I guarantee 100% uptime, if I am asked to stay after work, I will never refuse or demand anything in return!
 
 I also have a hobby - football!
+
+## Skills
+* __HTML:__ 8/10
+* __CSS:__ 8/10
+* __JavaScript:__ 5/10
+* __Vue:__ 5/10
+* __React:__ 2/10
