@@ -23,3 +23,8 @@ I also have a hobby - football!
 * __JavaScript:__ 5/10
 * __Vue:__ 5/10
 * __React:__ 2/10
+
+## Code example
+```javascript
+alert( 'Hello, world!' );
+```
