@@ -28,3 +28,16 @@ I also have a hobby - football!
 ```javascript
 alert( 'Hello, world!' );
 ```
+## Language
+* __English:__ A1+
+
+## Education
+* __02.2020 - 09.2020__ - IT-school 'StormNet Technologies' (frontend development)
+
+## Experience
+* __01.2021 - present__ - freelance (HTML,СSS - coder)
+
+## Projects
+1. * __Malacandra:__  [https://www.malacandra.ru](https://www.malacandra.ru)
+1. * __Agrolines:__  [https://www.agrolines.ru](https://www.agrolines.ru)
+1. * __Portalagro:__  [https://www.portalagro.ru](https://www.portalagro.ru)
